@@ -382,8 +382,7 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
-    }
-  ],
+ 
   "doh": [
     {
       "name": "Google",
