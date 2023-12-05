@@ -12,7 +12,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
+     { "key": "虎牙直播js", "name": "虎牙┃直播", "type": 3, "api": "https://drpy.cainisi.cf/libs/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "changeable": 0, "ext": "https://drpy.cainisi.cf/js/虎牙直播.js" },
    {
       "key": "南瓜",
       "name": "南瓜┃2K",
