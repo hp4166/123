@@ -12,30 +12,10 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
     
-  
-    {
-      "key": "77",
-      "name": "👒七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+   {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "南瓜┃2K",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -43,10 +23,20 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {
+      "key": "77",
+      "name": "七七┃2K",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   
    
     {
       "key": "南坊",
-      "name": "☀南坊┃App",
+      "name": "南坊┃2K",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -58,7 +48,7 @@
 
     {
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": "一起┃2K",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -68,7 +58,7 @@
     
     {
       "key": "毛驴",
-      "name": "🍓毛驴┃直连",
+      "name": "毛驴┃2K",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -77,7 +67,9 @@
       "ext": "https://www.maolvys.com/"
     },
   
-
+  { "key": "csp_WoGG", "name": "玩偶┃4K", "type": 3, "api": "csp_WoGG", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹","jar":"./jar/fty.jar"
+    },
+    
    
     {
       "key": "Aid",
@@ -187,16 +179,6 @@
       "changeable": 0
     },
    
-    {
-      "key": "YiSo",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
 
     {
       "key": "Bili",
@@ -226,6 +208,13 @@
       "changeable": 0,
       "ext": "./lib/biliych.json"
     },
+    { "key": "七夜", "name": "七夜┃4K", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd","jar":"./jar/fty.jar" },
+{ "key": "YiSo", "name": "易搜┃4K", "type": 3, "api": "csp_YiSo", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd","jar":"./jar/fty.jar" },
+ { "key": "UpYun", "name": "云搜┃4K", "type": 3, "api": "csp_UpYun", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd","jar":"./jar/fty.jar" },
+ { "key": "PanSou", "name": "pan搜┃4K", "type": 3, "api": "csp_PanSou", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd","jar":"./jar/fty.jar" },
+
+  { "key": "PanSearch", "name": "盘搜┃4K", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd","jar":"./jar/fty.jar" },
+
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
