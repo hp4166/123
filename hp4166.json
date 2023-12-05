@@ -167,20 +167,7 @@
       "changeable": 0
     },
  
-    {
-      "key": "虎牙直播js",
-      "name": "牙┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/虎牙直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
     {
       "key": "csp_XYQBiu_斗鱼",
       "name": "斗鱼┃直播",
