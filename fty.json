@@ -302,11 +302,14 @@
       "name": "聚合",
       "type": 3,
       "url": "Demo"
-    } ],
-    
-  
-      "flag": [
-         "qq",
+    },
+    {
+      "name": "请勿相信广告",
+      "type": 1,
+      "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
           "腾讯",
           "qiyi",
           "爱奇艺",
@@ -333,9 +336,13 @@
           "XALS",
           "YuMi-vip"
         ]
-      
-    ,
-    
+      }
+    },
+    {
+      "name": "请勿相信广告",
+      "type": 1,
+      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
+      "ext": {
         "flag": [
           "qq",
           "腾讯",
@@ -355,10 +362,15 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-    
-      
-       "flag": [
+        ]
+      }
+    },
+    {
+      "name": "请勿相信广告",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
           "qq",
           "腾讯",
           "qiyi",
@@ -382,7 +394,8 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
- 
+    }
+  ],
   "doh": [
     {
       "name": "Google",
@@ -540,3 +553,15 @@
       ]
     }
   ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
